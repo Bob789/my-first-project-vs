@@ -1,0 +1,7 @@
+# Python dependencies for even number checker project
+
+# No special external libraries required for the current implementation
+# Just standard Python is needed (3.6 or higher recommended)
+
+# For testing:
+pytest==7.4.3  # Optional: For running tests in a more advanced framework
